@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/zehra/Desktop/Ders Materyalleri/LAB/Hafta4/soru1/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/soru1.dir/main.c.o -c \"/Users/zehra/Desktop/Ders Materyalleri/LAB/Hafta4/soru1/main.c\"",
+  "file": "/Users/zehra/Desktop/Ders Materyalleri/LAB/Hafta4/soru1/main.c",
+  "output": "/Users/zehra/Desktop/Ders Materyalleri/LAB/Hafta4/soru1/cmake-build-debug/CMakeFiles/soru1.dir/main.c.o"
+}
+]
